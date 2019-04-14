@@ -3,3 +3,5 @@ master ::1 1511
 branch-1 :: 1505
 
 change to check integration between git and Jenkins
+
+demo for Poll SCM
