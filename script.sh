@@ -6,3 +6,4 @@ echo "[INFO] demo for running script"
 
 echo "[INFO] demo for artefacts archive"
 echo "[INFO] demo for artefacts archive - 2"
+echo "[INFO] demo trigger build on build completion"
